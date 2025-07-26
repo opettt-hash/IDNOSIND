@@ -10,12 +10,12 @@ Program ini adalah seperangkat alat investigasi digital berbasis Python yang dir
 
 📌 *Catatan: Script ini masih dalam tahap pengembangan dan penambahan fitur secara berkala. Versi selanjutnya akan membawa lebih banyak alat dan perbaikan.*
 
-✅ Validasi data kependudukan (NIK), IMEI, email, nomor HP, dan rekening bank
-✅ Pemindaian keamanan website: CVE, script eksternal, dan potensi risiko sesi
-✅ Pelacakan identitas daring: username finder, social scanner, dan digital footprint
-✅ Pencarian dokumen publik melalui Google Dork (PDF/DOC/XLS)
-✅ Temp Mail Generator & Session Hijack Risk Analysis
-✅ Kompatibel dengan Termux, Linux, maupun Android environments
+Validasi data kependudukan (NIK), IMEI, email, nomor HP, dan rekening bank
+Pemindaian keamanan website: CVE, script eksternal, dan potensi risiko sesi
+Pelacakan identitas daring: username finder, social scanner, dan digital footprint
+Pencarian dokumen publik melalui Google Dork (PDF/DOC/XLS)
+Temp Mail Generator & Session Hijack Risk Analysis
+Kompatibel dengan Termux, Linux, maupun Android environments
 
 ---
 
