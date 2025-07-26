@@ -6,7 +6,7 @@ Program ini adalah seperangkat alat investigasi digital berbasis Python yang dir
 
 ---
 
-## 🧠 FITUR UTAMA
+## FITUR UTAMA 🧠
 
 📌 *Catatan: Script ini masih dalam tahap pengembangan dan penambahan fitur secara berkala. Versi selanjutnya akan membawa lebih banyak alat dan perbaikan.*
 
