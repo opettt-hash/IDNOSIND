@@ -35,7 +35,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 
 ## SCREENSHOT 🧪
 
-![Screenshot](https://i.imgur.com/123ABC.png)
+<img src="roland1.jpg" alt="IP Result" width="20%">
 
 ---
 
