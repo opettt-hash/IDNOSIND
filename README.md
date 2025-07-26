@@ -8,7 +8,7 @@ Program ini adalah seperangkat alat investigasi digital berbasis Python yang dir
 
 ## FITUR UTAMA 🧠
 
-📌 *Catatan: Script ini masih dalam tahap pengembangan dan penambahan fitur secara berkala. Versi selanjutnya akan membawa lebih banyak alat dan perbaikan.*
+*Catatan: Script ini masih dalam tahap pengembangan dan penambahan fitur secara berkala. Versi selanjutnya akan membawa lebih banyak alat dan perbaikan.*
 
 Validasi data kependudukan (NIK), IMEI, email, nomor HP, dan rekening bank
 Pemindaian keamanan website: CVE, script eksternal, dan potensi risiko sesi
