@@ -15,7 +15,7 @@ Pemindaian keamanan website: CVE, script eksternal, dan potensi risiko sesi
 Pelacakan identitas daring: username finder, social scanner, dan digital footprint
 Pencarian dokumen publik melalui Google Dork (PDF/DOC/XLS)
 Temp Mail Generator & Session Hijack Risk Analysis
-Kompatibel dengan Termux, Linux, maupun Android environments
+Kompatibel dengan Termux, Linux, maupun Android environments.
 
 ---
 
@@ -35,7 +35,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments
 
 ## SCREENSHOT 🧪
 
-![Screenshot](https://i.imgur.com/123ABC.png) <!-- Ganti link ini ke screenshot real -->
+![Screenshot](https://i.imgur.com/123ABC.png)
 
 ---
 
@@ -45,7 +45,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments
  Harga: Rp20.000 (sekali bayar, lifetime access) 💰
 ```
 
-Harga terjangkau untuk tools investigasi tingkat lanjut. Bayar sekali, gunakan sepuasnya!
+Harga terjangkau untuk tools investigasi tingkat lanjut. Bayar sekali, gunakan sepuasnya !
 
 ---
 
