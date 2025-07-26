@@ -45,7 +45,7 @@ Program ini adalah seperangkat alat investigasi digital berbasis Python yang dir
 💰 Harga: Rp10.000 (sekali bayar, lifetime access)
 ```
 
-Harga terjangkau untuk tool investigasi tingkat lanjut. Bayar sekali, gunakan selamanya.
+Harga terjangkau untuk tool investigasi tingkat lanjut. Bayar sekali, gunakan sepuasnya.
 
 ---
 
