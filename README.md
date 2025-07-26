@@ -51,12 +51,12 @@ Harga terjangkau untuk tool investigasi tingkat lanjut. Bayar sekali, gunakan se
 
 ## PEMESANAN 📲
 
-Bergabung juga dengan komunitas kami :
+Bergabung juga dengan komunitas kami 🎭
 
 * Grup Telegram  : [t.me/rolandino\_doxing](https://t.me/rolandino_doxing)
 * Grup Facebook  : [facebook.com/groups/rolandinodox](https://facebook.com/groups/rolandinodox)
 
-Hubungi Langsung :
+Hubungi Langsung 💬
 
 * Telegram  : [@rolandino28](https://t.me/rolandino28)
 * Facebook  : [fb.me/rolandino28](https://fb.me/rolandino28)
