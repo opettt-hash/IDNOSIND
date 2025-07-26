@@ -53,14 +53,14 @@ Harga terjangkau untuk tool investigasi tingkat lanjut. Bayar sekali, gunakan se
 
 Bergabung juga dengan komunitas kami :
 
-* Grup Telegram 💬 : [t.me/rolandino\_doxing](https://t.me/rolandino_doxing)
-* Grup Facebook 💬 : [facebook.com/groups/rolandinodox](https://facebook.com/groups/rolandinodox)
+* Grup Telegram  : [t.me/rolandino\_doxing](https://t.me/rolandino_doxing)
+* Grup Facebook  : [facebook.com/groups/rolandinodox](https://facebook.com/groups/rolandinodox)
 
 Hubungi Langsung :
 
-* Telegram 💬 : [@rolandino28](https://t.me/rolandino28)
-* Facebook 💬 : [fb.me/rolandino28](https://fb.me/rolandino28)
-* GitHub   💬 : [github.com/opettt-hash](https://github.com/opettt-hash)
+* Telegram  : [@rolandino28](https://t.me/rolandino28)
+* Facebook  : [fb.me/rolandino28](https://fb.me/rolandino28)
+* GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
 
 **Silakan hubungi via Telegram atau Facebook untuk pembelian dan dukungan 💬**
 
