@@ -19,7 +19,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments
 
 ---
 
-## 📌 MENU TOOLS
+## MENU TOOLS 📌
 
 | No  | Fitur                  | Deskripsi                                    |
 | --- | ---------------------- | -------------------------------------------- |
@@ -33,40 +33,40 @@ Kompatibel dengan Termux, Linux, maupun Android environments
 
 ---
 
-## 🧪 SCREENSHOT
+## SCREENSHOT 🧪
 
 ![Screenshot](https://i.imgur.com/123ABC.png) <!-- Ganti link ini ke screenshot real -->
 
 ---
 
-## 💸 HARGA
+## HARGA 💸
 
 ```
-💰 Harga: Rp10.000 (sekali bayar, lifetime access)
+ Harga: Rp20.000 (sekali bayar, lifetime access) 💰
 ```
 
 Harga terjangkau untuk tool investigasi tingkat lanjut. Bayar sekali, gunakan sepuasnya.
 
 ---
 
-## 📲 PEMESANAN
+## PEMESANAN 📲
 
-Bergabung juga dengan komunitas kami:
+Bergabung juga dengan komunitas kami :
 
-* 💬 Grup Telegram: [t.me/rolandino\_doxing](https://t.me/rolandino_doxing)
-* 📘 Grup Facebook: [facebook.com/groups/rolandinodox](https://facebook.com/groups/rolandinodox)
+* Grup Telegram 💬 : [t.me/rolandino\_doxing](https://t.me/rolandino_doxing)
+* Grup Facebook 💬 : [facebook.com/groups/rolandinodox](https://facebook.com/groups/rolandinodox)
 
-Hubungi langsung:
+Hubungi Langsung :
 
-* 📞 Telegram: [@rolandino28](https://t.me/rolandino28)
-* 💬 Facebook: [fb.me/rolandino28](https://fb.me/rolandino28)
-* 🌐 GitHub: [github.com/opettt-hash](https://github.com/opettt-hash)
+* Telegram 💬 : [@rolandino28](https://t.me/rolandino28)
+* Facebook 💬 : [fb.me/rolandino28](https://fb.me/rolandino28)
+* GitHub   💬 : [github.com/opettt-hash](https://github.com/opettt-hash)
 
-🛒 **Silakan hubungi via Telegram atau Facebook untuk pembelian dan dukungan.**
+**Silakan hubungi via Telegram atau Facebook untuk pembelian dan dukungan 💬**
 
 ---
 
-## ⚠️ DISCLAIMER
+## DISCLAIMER ⚠️
 
 > Tools ini dibuat untuk keperluan edukasi, riset keamanan siber, dan investigasi OSINT.
 > Penggunaan untuk tindakan ilegal atau pelanggaran hukum sepenuhnya menjadi tanggung jawab pengguna.
