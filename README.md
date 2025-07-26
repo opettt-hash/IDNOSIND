@@ -39,7 +39,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 
  <img src="roland3.jpg" alt="IP Result" width="20%"> <img src="roland4.jpg" alt="IP Result" width="20%"> <img src="roland5.jpg" alt="IP Result" width="20%">
 
- <img src="roland7.jpg" alt="IP Result" width="20%">
+ <img src="roland7.jpg" alt="IP Result" width="20%"> <img src="roland8.jpg" alt="IP Result" width="20%"> 
 ---
 
 ## HARGA 💸
