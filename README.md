@@ -35,7 +35,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 
 ## SCREENSHOT 🧪
 
-<img src="roland1.jpg" alt="IP Result" width="30%"> <img src="roland2.jpg" alt="IP Result" width="30%">
+<img src="roland1.jpg" alt="IP Result" width="30%"> <img src="roland2.jpg" alt="IP Result" width="20%">
 
 ---
 
