@@ -1,6 +1,6 @@
 # DOXING TOOLS PREMIUM 🎭
 
-<img src="roland10.jpg" alt="IP Result" width="50%">
+<img src="roland11.jpg" alt="IP Result" width="50%">
 
 Program ini adalah seperangkat alat investigasi digital berbasis Python yang dirancang untuk melakukan pencarian informasi secara menyeluruh (DOXING), Cocok digunakan oleh peneliti keamanan siber, jurnalis investigatif, hingga profesional forensik digital.
 
