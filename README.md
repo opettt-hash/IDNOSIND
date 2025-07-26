@@ -62,7 +62,7 @@ Hubungi Langsung :
 * Facebook  : [fb.me/rolandino28](https://fb.me/rolandino28)
 * GitHub Saya : [github.com/opettt-hash](https://github.com/opettt-hash)
 
-**Silakan hubungi via Telegram atau Facebook untuk pembelian dan dukungan 💬**
+**Silakan hubungi Telegram atau Facebook untuk pembelian 💬**
 
 ---
 
