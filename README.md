@@ -59,7 +59,7 @@ Bergabung juga dengan komunitas kami 🎭
 Hubungi Langsung 💬
 
 * Telegram  : [@rolandino28](https://t.me/rolandino28)
-* Facebook  : [fb.me/rolandino28](https://fb.me/rolandino28)
+* Facebook  : [fb.me/rolandino28](https://www.facebook.com/profile.php?id=100094471519310)
 * GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
 
 **Silakan hubungi Telegram atau Facebook untuk pembelian 💬**
