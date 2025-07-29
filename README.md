@@ -31,7 +31,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 | 13  | Dork Dokumen Rahasia   | Pencarian file sensitif di domain publik     |
 | 24  | Temp Mail Create       | Pembuatan email sementara otomatis           |
 | 25  | Session Hijack Scanner | Deteksi kerentanan sesi dan cookie situs     |
-| ... | 25 fiture              | Lihat detail dalam script utama              |
+| ... | 35 fiture              | Lihat detail dalam script utama              |
 
 ---
 
@@ -42,12 +42,16 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
  <img src="roland3.jpg" alt="IP Result" width="20%"> <img src="roland4.jpg" alt="IP Result" width="20%"> <img src="roland5.jpg" alt="IP Result" width="20%"> 
 
  <img src="roland7.jpg" alt="IP Result" width="20%"> <img src="roland8.jpg" alt="IP Result" width="20%"> <img src="roland9.jpg" alt="IP Result" width="20%"> 
+
+ <img src="1000.jpg" alt="IP Result" width="20%"> <img src="2000.jpg" alt="IP Result" width="20%"> <img src="3000.jpg" alt="IP Result" width="20%">
+
+ <img src="4000.jpg" alt="IP Result" width="20%">
 ---
 
 ## HARGA 💸
 
 ```
- Harga: Rp20.000 (sekali bayar, lifetime access) 💰
+ Harga: Rp100.000 (sekali bayar, lifetime access) 💰
 ```
 
 Harga terjangkau untuk tools investigasi tingkat lanjut. Bayar sekali, gunakan sepuasnya !
