@@ -77,7 +77,7 @@ Hubungi Langsung 💬
 
 ## DISCLAIMER ⚠️
 
-> Tools ini dibuat untuk keperluan edukasi, riset keamanan siber, dan investigasi OSINT.
+> Tools ini dibuat untuk keperluan edukasi, riset keamanan siber, dan investigasi DOXING.
 > Penggunaan untuk tindakan ilegal atau pelanggaran hukum sepenuhnya menjadi tanggung jawab pengguna.
 
 ---
