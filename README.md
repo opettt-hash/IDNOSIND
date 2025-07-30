@@ -51,7 +51,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 ## CLONE REPOSITORY 🎭
 
 ```
- Harga: Rp100.000 (sekali bayar, lifetime access) 💰
+ Masih Dalam Tahap Update, Harap Bersabar!
 ```
 Pastikan Semua Module Yang Di Butuhkan Sudah Di Install Dengan Benar !
 
