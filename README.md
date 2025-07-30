@@ -55,10 +55,10 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 ## HARGA 🎭
 
 ```
-Rp350.000 ( Open Source )
-Rp250.000 ( Encrypt )
+Rp250.000 ( Open Source )
+Rp150.000 ( Encrypt )
 
-Max Dp Di Awal Untuk - Open Source & Encrypt ( Rp200.000 )
+Max Dp Di Awal Untuk - Open Source & Encrypt ( Rp100.000 )
 ```
 Testimoni Banyak, Ragu Siap Reqber !
 
