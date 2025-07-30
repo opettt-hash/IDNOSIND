@@ -1,4 +1,4 @@
-# PHONEDOX FREE TOOLS 🎭
+# PHONEDOX PREMIUM TOOLS 🎭
 
 <img src="6000.jpg" alt="IP Result" width="100%">
 
@@ -52,10 +52,11 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 ---
 ---
 
-## CLONE REPOSITORY 🎭
+## HARGA 🎭
 
 ```
- Masih Dalam Tahap Update, Harap Bersabar!
+Rp350.000 ( Open Source )
+Rp250.000 ( Encrypt )
 ```
 Pastikan Semua Module Yang Di Butuhkan Sudah Di Install Dengan Benar !
 
@@ -74,7 +75,7 @@ Hubungi Owner 🎭
 * Facebook  : [fb.me/rolandino28](https://www.facebook.com/profile.php?id=100094471519310)
 * GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
 
-**Silakan Hubungi Telegram Atau Facebook Untuk Melapor Bug 💬**
+**Silakan Hubungi Telegram Atau Facebook Untuk Melapor Pembelian & Lapor Bug 🎭**
 
 ---
 
