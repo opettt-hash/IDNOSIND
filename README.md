@@ -57,6 +57,8 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 ```
 Rp350.000 ( Open Source )
 Rp250.000 ( Encrypt )
+
+Dp Di Awal Untuk - Open Source & Encrypt ( Rp200.000 )
 ```
 Pastikan Semua Module Yang Di Butuhkan Sudah Di Install Dengan Benar !
 
