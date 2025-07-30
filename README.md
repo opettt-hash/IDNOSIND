@@ -58,9 +58,9 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 Rp350.000 ( Open Source )
 Rp250.000 ( Encrypt )
 
-Dp Di Awal Untuk - Open Source & Encrypt ( Rp200.000 )
+Max Dp Di Awal Untuk - Open Source & Encrypt ( Rp200.000 )
 ```
-Pastikan Semua Module Yang Di Butuhkan Sudah Di Install Dengan Benar !
+Testimoni Banyak, Ragu Siap Reqber !
 
 ---
 
@@ -77,7 +77,7 @@ Hubungi Owner 🎭
 * Facebook  : [fb.me/rolandino28](https://www.facebook.com/profile.php?id=100094471519310)
 * GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
 
-**Silakan Hubungi Telegram Atau Facebook Untuk Melapor Pembelian & Lapor Bug 🎭**
+**Hubungi Telegram Atau Facebook Untuk Pembelian & Lapor Bug 🎭**
 
 ---
 
@@ -89,5 +89,5 @@ Hubungi Owner 🎭
 ---
 
 ```
-#Rolandino #OSINT #Doxing #CyberSecurity #Termux #InvestigationTools
+#Rolandino #CrackersCommunity #OSINT #Doxing #CyberSecurity #Termux #InvestigationTools
 ```
