@@ -53,8 +53,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 ```
  Harga: Rp100.000 (sekali bayar, lifetime access) 💰
 ```
-
-Harga terjangkau untuk tools investigasi tingkat lanjut. Bayar sekali, gunakan sepuasnya !
+Pastikan Semua Module Yang Di Butuhkan Sudah Di Install Dengan Benar !
 
 ---
 
