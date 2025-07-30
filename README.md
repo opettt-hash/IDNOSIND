@@ -31,7 +31,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 | 13  | Dork Dokumen Rahasia   | Pencarian file sensitif di domain publik     |
 | 24  | Temp Mail Create       | Pembuatan email sementara otomatis           |
 | 25  | Session Hijack Scanner | Deteksi kerentanan sesi dan cookie situs     |
-| ... | 35 fiture              | Lihat detail dalam script utama              |
+| ... | Masih Dalam Tahap Fix  | Lihat detail dalam script utama              |
 
 ---
 
