@@ -1,4 +1,4 @@
-# DOXING TOOLS PREMIUM 🎭
+# PHONEDOX FREE TOOLS 🎭
 
 <img src="6000.jpg" alt="IP Result" width="100%">
 
@@ -8,7 +8,7 @@ Program ini adalah seperangkat alat investigasi digital berbasis Python yang dir
 
 ---
 
-## FITUR UTAMA 🧠
+## FITUR UTAMA 🎭
 
 *Catatan: Script ini masih dalam tahap pengembangan dan penambahan fitur secara berkala. Versi selanjutnya akan membawa lebih banyak alat dan perbaikan.*
 
@@ -21,7 +21,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 
 ---
 
-## MENU TOOLS 📌
+## MENU TOOLS 🎭
 
 | No  | Fitur                  | Deskripsi                                    |
 | --- | ---------------------- | -------------------------------------------- |
@@ -35,7 +35,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 
 ---
 
-## SCREENSHOT 🧪
+## HASIL SCREENSHOT 🎭
 
 <img src="roland1.jpg" alt="IP Result" width="30%"> <img src="roland2.jpg" alt="IP Result" width="20%"> <img src="roland6.jpg" alt="IP Result" width="30%">
 
@@ -48,7 +48,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
  <img src="4000.jpg" alt="IP Result" width="20%"> <img src="5000.jpg" alt="IP Result" width="20%">
 ---
 
-## HARGA 💸
+## CLONE REPOSITORY 🎭
 
 ```
  Harga: Rp100.000 (sekali bayar, lifetime access) 💰
@@ -58,20 +58,20 @@ Harga terjangkau untuk tools investigasi tingkat lanjut. Bayar sekali, gunakan s
 
 ---
 
-## PEMESANAN 📲
+## OWNER/KOMUNITAS 🎭
 
-Bergabung juga dengan komunitas kami 🎭
+Bergabung Dengan Komunitas Kami 🎭
 
 * Grup Telegram  : [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
 * Grup Facebook  : [facebook.com/groups/Crackersteam](https://facebook.com/groups/1315706686529312/)
 
-Hubungi Langsung 💬
+Hubungi Owner 🎭
 
 * Telegram  : [@rolandino28](https://t.me/rolandino28)
 * Facebook  : [fb.me/rolandino28](https://www.facebook.com/profile.php?id=100094471519310)
 * GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
 
-**Silakan hubungi Telegram atau Facebook untuk pembelian 💬**
+**Silakan Hubungi Telegram Atau Facebook Untuk Melapor Bug 💬**
 
 ---
 
