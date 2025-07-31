@@ -56,12 +56,13 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 ## HARGA 🎭
 
 ```
-Rp250.000 ( Open Source )
-Rp150.000 ( Encrypt )
+Rp300.000 ( Open Source )
+Rp200.000 ( Encrypt )
 
-Max Dp Di Awal Untuk - Open Source & Encrypt ( Rp100.000 )
+Max Dp Di Awal Untuk - Open Source : Rp250.000
+Max Dp Di Awal Untuk - Encrypt : Rp150.000
 ```
-Testimoni Banyak, Ragu Siap Reqber !
+Ragu? Bisa Reqber, Testimoni Banyak !
 
 ---
 
@@ -85,7 +86,7 @@ Testimoni Banyak, Ragu Siap Reqber !
 ## DISCLAIMER ⚠️
 
 > Tools Ini Dibuat Untuk Keperluan Edukasi, Riset Keamanan Siber, Dan Investigasi DOXING.
-> Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna!
+> Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna !
 
 ---
 
