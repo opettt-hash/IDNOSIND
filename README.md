@@ -48,6 +48,8 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
  <img src="4000.jpg" alt="IP Result" width="20%"> <img src="5000.jpg" alt="IP Result" width="20%">  <img src="54321.jpg" alt="IP Result" width="20%">
 
 <img src="654321.jpg" alt="IP Result" width="20%"> <img src="dino1.jpg" alt="IP Result" width="20%">  <img src="dino2.jpg" alt="IP Result" width="20%">
+
+<img src="dino3.jpg" alt="IP Result" width="20%">
 ---
 
 ## HARGA 🎭
