@@ -29,7 +29,7 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 | 02  | Parsing NIK            | Menampilkan TTL Dan Domisili Berdasarkan NIK |
 | 05  | Info IMEI Global       | Deteksi Perangkat Berdasarkan Nomor IMEI     |
 | 13  | Dork Dokumen Rahasia   | Pencarian Dokumen File Private Di Website    |
-| 24  | Temp Mail Create       | Pembuatan email sementara otomatis           |
+| 24  | Osind Instagram        | Dapatkan Semua Detail No/Email/Fb/Id Location|
 | 25  | Session Hijack Scanner | Deteksi Kerentanan Sesi Dan Cookie Situs     |
 | ... | Masih Dalam Tahap Fix  | Lihat Detail Dalam Script Utama              |
 
