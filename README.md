@@ -4,13 +4,13 @@
 
 Program ini adalah seperangkat alat investigasi digital berbasis Python yang dirancang untuk melakukan pencarian informasi secara menyeluruh (DOXING), Cocok digunakan oleh peneliti keamanan siber, jurnalis investigatif, hingga profesional forensik digital.
 
-**Beri bintang repository ini jika kamu suka dan ingin mendukung pengembangan lebih lanjut ⭐**
+**Beri Bintang Repository Ini Jika Kamu Suka Dan Ingin Mendukung Pengembangan Lebih Lanjut ⭐**
 
 ---
 
 ## FITUR UTAMA 🎭
 
-*Catatan: Script ini masih dalam tahap pengembangan dan penambahan fitur secara berkala. Versi selanjutnya akan membawa lebih banyak alat dan perbaikan.*
+*Informasi: Script Ini Masih Dalam Tahap Pengembangan Dan Penambahan Fitur Secara Berkala. Versi Selanjutnya Akan Membawa Lebih Banyak Alat Dan Perbaikan.*
 
 Validasi data kependudukan (NIK), IMEI, email, nomor HP, dan rekening bank
 Pemindaian keamanan website: CVE, script eksternal, dan potensi risiko sesi
@@ -25,13 +25,13 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 
 | No  | Fitur                  | Deskripsi                                    |
 | --- | ---------------------- | -------------------------------------------- |
-| 01  | Cek Nomor Scam         | Validasi dan identifikasi nomor penipuan     |
-| 02  | Parsing NIK            | Menampilkan TTL dan domisili berdasarkan NIK |
-| 05  | Info IMEI Global       | Deteksi perangkat berdasarkan nomor IMEI     |
-| 13  | Dork Dokumen Rahasia   | Pencarian file sensitif di domain publik     |
+| 01  | Cek Nomor Scam         | Validasi Dan Identifikasi Nomor Penipuan     |
+| 02  | Parsing NIK            | Menampilkan TTL Dan Domisili Berdasarkan NIK |
+| 05  | Info IMEI Global       | Deteksi Perangkat Berdasarkan Nomor IMEI     |
+| 13  | Dork Dokumen Rahasia   | Pencarian Dokumen File Private Di Website    |
 | 24  | Temp Mail Create       | Pembuatan email sementara otomatis           |
-| 25  | Session Hijack Scanner | Deteksi kerentanan sesi dan cookie situs     |
-| ... | Masih Dalam Tahap Fix  | Lihat detail dalam script utama              |
+| 25  | Session Hijack Scanner | Deteksi Kerentanan Sesi Dan Cookie Situs     |
+| ... | Masih Dalam Tahap Fix  | Lihat Detail Dalam Script Utama              |
 
 ---
 
@@ -81,8 +81,8 @@ Testimoni Banyak, Ragu Siap Reqber !
 
 ## DISCLAIMER ⚠️
 
-> Tools ini dibuat untuk keperluan edukasi, riset keamanan siber, dan investigasi DOXING.
-> Penggunaan untuk tindakan ilegal atau pelanggaran hukum sepenuhnya menjadi tanggung jawab pengguna.
+> Tools Ini Dibuat Untuk Keperluan Edukasi, Riset Keamanan Siber, Dan Investigasi DOXING.
+> Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna!
 
 ---
 
