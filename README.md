@@ -31,7 +31,7 @@ Termux, Maupun Android Environments.
 | 13  | Dork Dokumen Rahasia   | Pencarian Dokumen File Private Di Website    |
 | 24  | Osind Instagram        | Dapatkan Semua Detail No/Email/Fb/Id Location|
 | 25  | Location Number        | Geolokasi Map Berdasarkan Validasi Nomor     |
-| ... | Masih Dalam Tahap Fix  | Lihat Detail Dalam Script Utama              |
+| ... | Total Fiture 50        | Lihat Detail Dalam Script Utama              |
 
 ---
 
