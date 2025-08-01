@@ -51,7 +51,7 @@ Termux, Maupun Android Environments.
 
 <img src="dino3.jpg" alt="IP Result" width="20%"> <img src="dino4.jpg" alt="IP Result" width="20%"> <img src="dino5.jpg" alt="IP Result" width="20%">
 
-<img src="dino6.jpg" alt="IP Result" width="20%">
+<img src="dino6.jpg" alt="IP Result" width="20%"> <img src="dino7.jpg" alt="IP Result" width="20%">
 
 ---
 
