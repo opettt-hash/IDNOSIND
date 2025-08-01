@@ -17,7 +17,7 @@ Validasi Data Kependudukan (NIK), IMEI, Email, Nomor HP, Dan Rekening Bank
 Pemindaian Keamanan WebsiteCVE, Script Eksternal, Dan Potensi Risiko Sesi
 Pelacakan Identitas Daring Username Finder, Social Scanner, Dan Digital Footprint
 Pencarian dokumen publik melalui Google Dork (PDF/DOC/XLS) Temp Mail Generator & Session
-Kompatibel Dengan Termux, Linux Maupun Android Environments.
+Kompatibel Dengan Termux, Maupun Android Environments.
 
 ---
 
