@@ -64,7 +64,7 @@ Rp200.000 ( Encrypt )
 Max Dp Di Awal Untuk - Open Source : Rp250.000
 Max Dp Di Awal Untuk - Encrypt : Rp150.000
 ```
-Ragu? Bisa Reqber, Testimoni Banyak !
+Program Script Ini Berlaku Permanent & Bisa Kamu Pakai Sepuasnya Hingga Update Selanjutnya.
 
 ---
 
