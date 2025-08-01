@@ -11,14 +11,13 @@ Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan 
 
 ## FITUR UTAMA 🎭
 
-*Informasi: Script Ini Masih Dalam Tahap Pengembangan Dan Penambahan Fitur Secara Berkala. Versi Selanjutnya Akan Membawa Lebih Banyak Alat Dan Perbaikan*
+*Informasi: Script Ini Masih Dalam Tahap Pengembangan Dan Penambahan Fitur Secara Berkala, Versi Selanjutnya Akan Membawa Lebih Banyak Alat Dan Perbaikan.*
 
-Validasi data kependudukan (NIK), IMEI, email, nomor HP, dan rekening bank
-Pemindaian keamanan website: CVE, script eksternal, dan potensi risiko sesi
-Pelacakan identitas daring: username finder, social scanner, dan digital footprint
-Pencarian dokumen publik melalui Google Dork (PDF/DOC/XLS)
-Temp Mail Generator & Session Hijack Risk Analysis
-Kompatibel dengan Termux, Linux, maupun Android environments.
+Validasi Data Kependudukan (NIK), IMEI, Email, Nomor HP, Dan Rekening Bank
+Pemindaian Keamanan WebsiteCVE, Script Eksternal, Dan Potensi Risiko Sesi
+Pelacakan Identitas Daring Username Finder, Social Scanner, Dan Digital Footprint
+Pencarian dokumen publik melalui Google Dork (PDF/DOC/XLS) Temp Mail Generator & Session
+Kompatibel Dengan Termux, Linux Maupun Android Environments.
 
 ---
 
