@@ -2,7 +2,9 @@
 
 <img src="6000.jpg" alt="IP Result" width="100%">
 
-Program ini adalah seperangkat alat investigasi digital berbasis Python yang dirancang untuk melakukan pencarian informasi secara menyeluruh (DOXING), Cocok digunakan oleh peneliti keamanan siber, jurnalis investigatif, hingga profesional forensik digital.
+Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (DOXING), Cocok Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
+Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan Data Dump & Scraping !
+
 
 **Beri Bintang Repository Ini Jika Kamu Suka Dan Ingin Mendukung Pengembangan Lebih Lanjut ⭐**
 
@@ -10,7 +12,7 @@ Program ini adalah seperangkat alat investigasi digital berbasis Python yang dir
 
 ## FITUR UTAMA 🎭
 
-*Informasi: Script Ini Masih Dalam Tahap Pengembangan Dan Penambahan Fitur Secara Berkala. Versi Selanjutnya Akan Membawa Lebih Banyak Alat Dan Perbaikan.*
+*Informasi: Script Ini Masih Dalam Tahap Pengembangan Dan Penambahan Fitur Secara Berkala. Versi Selanjutnya Akan Membawa Lebih Banyak Alat Dan Perbaikan*
 
 Validasi data kependudukan (NIK), IMEI, email, nomor HP, dan rekening bank
 Pemindaian keamanan website: CVE, script eksternal, dan potensi risiko sesi
@@ -27,10 +29,10 @@ Kompatibel dengan Termux, Linux, maupun Android environments.
 | --- | ---------------------- | -------------------------------------------- |
 | 01  | Cek Nomor Scam         | Validasi Dan Identifikasi Nomor Penipuan     |
 | 02  | Parsing NIK            | Menampilkan TTL Dan Domisili Berdasarkan NIK |
-| 05  | Info IMEI Global       | Deteksi Perangkat Berdasarkan Nomor IMEI     |
+| 05  | Info IMEI Global       | Deteksi Perangkat Berdasarkan Nomor IMEI Dll |
 | 13  | Dork Dokumen Rahasia   | Pencarian Dokumen File Private Di Website    |
 | 24  | Osind Instagram        | Dapatkan Semua Detail No/Email/Fb/Id Location|
-| 25  | Session Hijack Scanner | Deteksi Kerentanan Sesi Dan Cookie Situs     |
+| 25  | Location Number        | Geolokasi Map Berdasarkan Validasi Nomor     |
 | ... | Masih Dalam Tahap Fix  | Lihat Detail Dalam Script Utama              |
 
 ---
