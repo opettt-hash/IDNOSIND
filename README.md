@@ -58,8 +58,8 @@ Termux, Maupun Android Environments.
 ## HARGA 🎭
 
 ```
-Rp300.000 ( Open Source )
-Rp200.000 ( Encrypt )
+Rp300.000 ( Permanent Open Source )
+Rp200.000 ( Permanent Encrypt )
 
 Max Dp Di Awal Untuk - Open Source : Rp250.000
 Max Dp Di Awal Untuk - Encrypt : Rp150.000
