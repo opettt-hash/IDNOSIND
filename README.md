@@ -69,14 +69,14 @@ Ragu? Bisa Reqber, Testimoni Banyak !
 
 ## OWNER/KOMUNITAS 🎭
 
-- Bergabung Dengan Komunitas Kami 🎭
+ Bergabung Dengan Komunitas Kami 🎭
 
 * Grup Telegram  : [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
 * Grup Facebook  : [facebook.com/groups/Crackersteam](https://facebook.com/groups/1315706686529312/)
 
-- Hubungi Owner 🎭
+ Hubungi Owner 🎭
 
-* Telegram  : [@rolandino28](https://t.me/rolandino28)
+➣ Telegram  : [@rolandino28](https://t.me/rolandino28)
 * Facebook  : [fb.me/rolandino28](https://www.facebook.com/profile.php?id=100094471519310)
 * GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
 
