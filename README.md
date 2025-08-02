@@ -96,5 +96,5 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 ---
 
 ```
-#Rolandino #CrackersCommunity #OSINT #Doxing #CyberSecurity #Termux #InvestigationTools
+CRACKERS COMMUNITIY 🎭
 ```
