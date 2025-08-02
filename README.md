@@ -29,8 +29,8 @@ Termux, Maupun Android Environments.
 | 02  | Parsing NIK            | Menampilkan TTL Dan Domisili Berdasarkan NIK |
 | 05  | Info IMEI Global       | Deteksi Perangkat Berdasarkan Nomor IMEI Dll |
 | 13  | Dork Dokumen Rahasia   | Pencarian Dokumen File Private Di Website    |
-| 24  | Osind Instagram        | Dapatkan Semua Detail No/Email/Fb/Id Location|
-| 25  | Location Number        | Geolokasi Map Berdasarkan Validasi Nomor     |
+| 24  | Validate Sosial        | Jejak Digital Di Semua Platfrom Online       |
+| 25  | Location Nomor         | Geolokasi Map Berdasarkan Validasi Nomor     |
 | ... | Total Fiture 51        | Lihat Dalam Detai Program Tools Script       |
 
 ---
@@ -96,5 +96,6 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 ---
 
 ```
+CREATED BY ROLANDINO 🎭
 TEAM CRACKERS COMMUNITIY 🎭
 ```
