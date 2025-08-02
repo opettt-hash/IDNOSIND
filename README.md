@@ -96,5 +96,5 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 ---
 
 ```
-CRACKERS COMMUNITIY 🎭
+TEAM CRACKERS COMMUNITIY 🎭
 ```
