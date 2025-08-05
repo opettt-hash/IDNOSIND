@@ -86,7 +86,7 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 
 👉 GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
 
- **Hubungi Telegram Atau Facebook Untuk Pembelian & Lapor Bug 🎭**
+ Hubungi Telegram Atau Facebook Untuk Pembelian & Lapor Bug 🎭
 
 ---
 
