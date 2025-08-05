@@ -96,6 +96,8 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 > Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna !
 
 ---
-**Dokumentasi 🎭**
+**Dokumentasi & Dukungan 🎭**
 
-<a href="https://www.buymeacoffee.com/norze" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" ></a> 
+<a href="https://sfl.gl/8fBpo5U" target="_blank" rel="noopener">
+  <img src="https://safelinku.com/favicon.ico" alt="Safelinku Logo" height="100">
+</a>
