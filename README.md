@@ -5,7 +5,7 @@
 Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (DOXING), Cocok Untuk Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
 Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan Data Dump & Scraping.
 
-**Beri Bintang Repository Ini Jika Kamu Suka Dan Ingin Mendukung Pengembangan Lebih Lanjut ⭐**
+Beri Bintang Repository Ini Jika Kamu Suka Dan Ingin Mendukung Pengembangan Lebih Lanjut ⭐
 
 ---
 
