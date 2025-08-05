@@ -1,7 +1,7 @@
 # PREMIUM DOXXING TOOLS 🎭
 ![VERSION](https://img.shields.io/badge/VERSION-1.0-green)
 
-<img src="MENU1.jpg" alt="IP Result" width="90%">
+<img src="MENU1.jpg" alt="IP Result" width="100%">
 
 Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (DOXING), Cocok Untuk Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
 Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan Data Dump & Scraping.
@@ -11,7 +11,7 @@ Beri Bintang Repository Ini Jika Kamu Suka Dan Ingin Mendukung Pengembangan Lebi
 ---
 
 ## FITUR UTAMA 🎭
-<p align="center"> <img width="300px" src="https://i.postimg.cc/258grZf5/world1.webp"></p>
+<p align="center"> <img width="500px" src="https://i.postimg.cc/258grZf5/world1.webp"></p>
 
 *Informasi: Script Ini Masih Dalam Tahap Pengembangan Dan Penambahan Fitur Secara Berkala, Versi Selanjutnya Akan Membawa Lebih Banyak Alat Dan Perbaikan.*
 
