@@ -60,11 +60,11 @@ Termux, Maupun Android Environments.
 ## HARGA 🎭
 
 ```
-Rp300.000 ( Permanent Open Source )
-Rp200.000 ( Permanent Encrypt )
+Rp250.000 ( Permanent Open Source )
+Rp150.000 ( Permanent Encrypt )
 
-Max Dp Di Awal Untuk - Open Source : Rp250.000
-Max Dp Di Awal Untuk - Encrypt : Rp150.000
+Max Dp Di Awal Untuk - Open Source : Rp200.000
+Max Dp Di Awal Untuk - Encrypt : Rp100.000
 ```
 Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kamu Pakai Sepuasnya Sampai Update Selanjutnya !
 
@@ -74,17 +74,17 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 
  Bergabung Dengan Komunitas Kami 🎭
 
-➣ Grup Telegram  : [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
+👉 Grup Telegram  : [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
 
-➣ Grup Facebook  : [facebook.com/groups/Crackersteam](https://facebook.com/groups/1315706686529312/)
+👉 Grup Facebook  : [facebook.com/groups/Crackersteam](https://facebook.com/groups/1315706686529312/)
 
  Hubungi Owner 🎭
 
-➣ Telegram  : [@rolandino28](https://t.me/rolandino28)
+👉 Telegram  : [@rolandino28](https://t.me/rolandino28)
 
-➣ Facebook  : [fb.me/rolandino28](https://www.facebook.com/profile.php?id=100094471519310)
+👉 Facebook  : [fb.me/rolandino28](https://www.facebook.com/profile.php?id=100094471519310)
 
-➣ GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
+👉 GitHub    : [github.com/opettt-hash](https://github.com/opettt-hash)
 
  **Hubungi Telegram Atau Facebook Untuk Pembelian & Lapor Bug 🎭**
 
