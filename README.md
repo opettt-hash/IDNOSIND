@@ -11,7 +11,7 @@ Beri Bintang Repository Ini Jika Kamu Suka Dan Ingin Mendukung Pengembangan Lebi
 ---
 
 ## FITUR UTAMA 🎭
-<p align="center"> <img width="350px" src="https://i.postimg.cc/258grZf5/world1.webp"></p>
+<p align="center"> <img width="300px" src="https://i.postimg.cc/258grZf5/world1.webp"></p>
 
 *Informasi: Script Ini Masih Dalam Tahap Pengembangan Dan Penambahan Fitur Secara Berkala, Versi Selanjutnya Akan Membawa Lebih Banyak Alat Dan Perbaikan.*
 
