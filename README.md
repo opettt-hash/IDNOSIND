@@ -2,8 +2,6 @@
 
 <img src="MENU1.jpg" alt="IP Result" width="100%">
 
-<p align="center"> <img width="350px" src="https://i.postimg.cc/258grZf5/world1.webp"></p>
-
 Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (DOXING), Cocok Untuk Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
 Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan Data Dump & Scraping.
 
