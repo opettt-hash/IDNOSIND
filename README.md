@@ -96,8 +96,6 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 > Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna !
 
 ---
+**💶 Support me 👇**
 
-```
-CREATED BY ROLANDINO 🎭
-TEAM CRACKERS COMMUNITIY 🎭
-```
+<a href="https://www.buymeacoffee.com/norze" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" ></a> 
