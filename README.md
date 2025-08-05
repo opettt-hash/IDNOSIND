@@ -96,8 +96,6 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 > Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna !
 
 ---
-**Dokumentasi & Dukungan 🎭**
-
-<a href="https://sfl.gl/8fBpo5U" target="_blank" rel="noopener">
+**Dokumentasi & Dukungan 🎭** <a href="https://sfl.gl/8fBpo5U" target="_blank" rel="noopener">
   <img src="https://safelinku.com/favicon.ico" alt="Safelinku Logo" height="100">
 </a>
