@@ -92,7 +92,7 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 
 ## DISCLAIMER 🎭
 
-> Program Ini Dibuat Untuk Keperluan Edukasi, Riset Keamanan Siber, Dan Investigasi OSIND !
+> Program Ini Dibuat Untuk Keperluan Edukasi, Riset Keamanan Siber, Dan Investigasi OSIND,
 > Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna !
 
 ---
