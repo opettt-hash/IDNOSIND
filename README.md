@@ -1,5 +1,6 @@
 # PREMIUM DOXXING TOOLS 🎭
-![Rolandino](https://img.shields.io/badge/Rolandino-green) ![AUTHOR(https://img.shields.io/badge/AUTHORVIEWTECH%20ORG-green)
+![Rolandino](https://img.shields.io/badge/Rolandino-green) 
+![AUTHOR(https://img.shields.io/badge/AUTHORVIEWTECH%20ORG-green)
 ![STARS](https://img.shields.io/badge/STARS-1-green)
 ![VERSION](https://img.shields.io/badge/VERSION-2.0.1-green)
 
