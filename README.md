@@ -1,6 +1,5 @@
 # PREMIUM DOXXING TOOLS 🎭
-![VIEWTECHTEAM](https://img.shields.io/badge/VIEWTECHTEAM-green)
-![AUTHOR](https://img.shields.io/badge/AUTHOR-VIEWTECH%20ORG-green)
+![VIEWTECHTEAM](https://img.shields.io/badge/VIEWTECHTEAM-green) ![AUTHOR](https://img.shields.io/badge/AUTHOR-VIEWTECH%20ORG-green)
 ![STARS](https://img.shields.io/badge/STARS-4-green)
 ![VERSION](https://img.shields.io/badge/VERSION-2.0.1-green)
 ![Termux](https://img.shields.io/badge/Termux-green)
