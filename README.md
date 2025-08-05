@@ -1,6 +1,6 @@
 # PREMIUM DOXXING TOOLS 🎭
 
-<img src="MENU1.jpg" alt="IP Result" width="100%">
+<img src="MENU1.jpg" alt="IP Result" width="20%">
 
 Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (DOXING), Cocok Untuk Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
 Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan Data Dump & Scraping.
@@ -36,21 +36,21 @@ Termux, Maupun Android Environments.
 
 ## HASIL SCREENSHOT 🎭
 
-<img src="roland1.jpg" alt="IP Result" width="30%"> <img src="roland2.jpg" alt="IP Result" width="20%"> <img src="roland6.jpg" alt="IP Result" width="30%">
+<img src="roland1.jpg" alt="IP Result" width="10%"> <img src="roland2.jpg" alt="IP Result" width="10%"> <img src="roland6.jpg" alt="IP Result" width="10%">
 
- <img src="roland3.jpg" alt="IP Result" width="20%"> <img src="roland4.jpg" alt="IP Result" width="20%"> <img src="roland5.jpg" alt="IP Result" width="20%"> 
+ <img src="roland3.jpg" alt="IP Result" width="10%"> <img src="roland4.jpg" alt="IP Result" width="10%"> <img src="roland5.jpg" alt="IP Result" width="10%"> 
 
- <img src="roland7.jpg" alt="IP Result" width="20%"> <img src="roland8.jpg" alt="IP Result" width="20%"> <img src="roland9.jpg" alt="IP Result" width="20%"> 
+ <img src="roland7.jpg" alt="IP Result" width="10%"> <img src="roland8.jpg" alt="IP Result" width="10%"> <img src="roland9.jpg" alt="IP Result" width="10%"> 
 
- <img src="1000.jpg" alt="IP Result" width="20%"> <img src="2000.jpg" alt="IP Result" width="20%"> <img src="3000.jpg" alt="IP Result" width="20%">
+ <img src="1000.jpg" alt="IP Result" width="10%"> <img src="2000.jpg" alt="IP Result" width="10%"> <img src="3000.jpg" alt="IP Result" width="10%">
 
- <img src="4000.jpg" alt="IP Result" width="20%"> <img src="5000.jpg" alt="IP Result" width="20%">  <img src="54321.jpg" alt="IP Result" width="20%">
+ <img src="4000.jpg" alt="IP Result" width="10%"> <img src="5000.jpg" alt="IP Result" width="10%">  <img src="54321.jpg" alt="IP Result" width="10%">
 
-<img src="654321.jpg" alt="IP Result" width="20%"> <img src="dino1.jpg" alt="IP Result" width="20%">  <img src="dino2.jpg" alt="IP Result" width="20%">
+<img src="654321.jpg" alt="IP Result" width="10%"> <img src="dino1.jpg" alt="IP Result" width="10%">  <img src="dino2.jpg" alt="IP Result" width="10%">
 
-<img src="dino3.jpg" alt="IP Result" width="20%"> <img src="dino4.jpg" alt="IP Result" width="20%"> <img src="dino5.jpg" alt="IP Result" width="20%">
+<img src="dino3.jpg" alt="IP Result" width="10%"> <img src="dino4.jpg" alt="IP Result" width="10%"> <img src="dino5.jpg" alt="IP Result" width="10%">
 
-<img src="dino6.jpg" alt="IP Result" width="20%"> <img src="dino7.jpg" alt="IP Result" width="20%">
+<img src="dino6.jpg" alt="IP Result" width="10%"> <img src="dino7.jpg" alt="IP Result" width="10%">
 
 ---
 
