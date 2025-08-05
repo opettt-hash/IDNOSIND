@@ -1,5 +1,5 @@
 # PREMIUM DOXXING TOOLS 🎭
-![VERSION](https://img.shields.io/badge/VERSION-2.0.1-green)
+![VERSION](https://img.shields.io/badge/VERSION-1.0-green)
 
 <img src="MENU1.jpg" alt="IP Result" width="90%">
 
