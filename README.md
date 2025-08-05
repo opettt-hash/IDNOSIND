@@ -1,9 +1,9 @@
-# PREMIUM DOXXING TOOLS 🎭
+# PREMIUM OSIND TOOLS 🎭
 ![VERSION](https://img.shields.io/badge/VERSION-1.0-green)
 
 <img src="MENU1.jpg" alt="IP Result" width="100%">
 
-Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (DOXING), Cocok Untuk Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
+Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (OSIND), Cocok Untuk Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
 Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan Data Dump & Scraping.
 
 **Beri Bintang Repository Ini Jika Kamu Suka Dan Ingin Mendukung Pengembangan Lebih Lanjut ⭐**
@@ -92,7 +92,7 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 
 ## DISCLAIMER 🎭
 
-> Tools Ini Dibuat Untuk Keperluan Edukasi, Riset Keamanan Siber, Dan Investigasi DOXING.
+> Program Ini Dibuat Untuk Keperluan Edukasi, Riset Keamanan Siber, Dan Investigasi OSIND !
 > Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna !
 
 ---
