@@ -1,9 +1,7 @@
 # PREMIUM DOXXING TOOLS 🎭
-![Rolandino](https://img.shields.io/badge/Rolandino-green) 
-
 ![VERSION](https://img.shields.io/badge/VERSION-2.0.1-green)
 
-<img src="MENU1.jpg" alt="IP Result" width="60%">
+<img src="MENU1.jpg" alt="IP Result" width="90%">
 
 Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (DOXING), Cocok Untuk Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
 Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan Data Dump & Scraping.
