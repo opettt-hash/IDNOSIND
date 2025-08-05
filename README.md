@@ -96,7 +96,6 @@ Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kam
 > Penggunaan Untuk Tindakan Ilegal Atau Pelanggaran Hukum Sepenuhnya Menjadi Tanggung Jawab Pengguna !
 
 ---
-<a href="https://sfl.gl/8fBpo5U" target="_blank" rel="noopener"> <a href="https://www.youtube.com/" target="_blank" <img src="https://safelinku.com/favicon.ico" alt="Safelinku Logo" height="100">
-</a>rel="noopener">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" height="20">
+<a href="https://www.youtube.com/" target="_blank" rel="noopener">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" height="100">
 </a>
