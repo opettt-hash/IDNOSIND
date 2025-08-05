@@ -45,7 +45,7 @@ Termux, Maupun Android Environments.
 
  <img src="roland7.jpg" alt="IP Result" width="10%"> <img src="roland8.jpg" alt="IP Result" width="10%"> <img src="roland9.jpg" alt="IP Result" width="10%"> <img src="yaping4.jpg" alt="IP Result" width="10%"> 
  
- <img src="1000.jpg" alt="IP Result" width="10%"> <img src="2000.jpg" alt="IP Result" width="10%"> <img src="3000.jpg" alt="IP Result" width="10%">
+ <img src="1000.jpg" alt="IP Result" width="10%"> <img src="2000.jpg" alt="IP Result" width="10%"> <img src="3000.jpg" alt="IP Result" width="10%"> <img src="amel1.jpg" alt="IP Result" width="10%">
 
  <img src="4000.jpg" alt="IP Result" width="10%"> <img src="5000.jpg" alt="IP Result" width="10%">  <img src="54321.jpg" alt="IP Result" width="10%">
 
