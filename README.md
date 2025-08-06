@@ -33,7 +33,7 @@ Termux, Maupun Android Environments.
 | 13  | Dork Dokumen Rahasia   | Pencarian Dokumen File Private Di Website    |
 | 24  | Validate Sosial        | Jejak Digital Di Semua Platfrom Online       |
 | 25  | Location Nomor         | Geolokasi Map Berdasarkan Validasi Nomor     |
-| ... | Total Fiture 51        | Lihat Dalam Detai Program Tools Script       |
+| ... | Total Fiture 61        | Lihat Dalam Detai Program Tools Script       |
 
 ---
 
