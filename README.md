@@ -1,8 +1,9 @@
 # PREMIUM OSIND TOOLS 🎭
-![VERSION](https://img.shields.io/badge/VERSION-2.0-green)
+![VERSION](https://img.shields.io/badge/VERSION-TOOLS-green)
 
 <img src="ANJAY.jpg" alt="IP Result" width="100%">
 
+![VERSION](https://img.shields.io/badge/VERSION-BOT-TELEGRAM-green)
 Program Script Ini Adalah Seperangkat Alat Investigasi Digital Berbasis Python Yang Dirancang Untuk Pencarian Informasi Secara Menyeluruh (OSIND), Cocok Untuk Digunakan Oleh Peneliti Keamanan Siber, Jurnalis Investigatif, Hingga Profesional Forensik Digital, Program Script Ini Mengandalkan Validate Api Secara Realtime & Akurat, Dengan Request
 Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan Data Dump & Scraping.
 
