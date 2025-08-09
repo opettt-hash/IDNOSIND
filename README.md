@@ -65,7 +65,7 @@ Termux, Maupun Android Environments.
 
 ```
 Rp100.000 ( Permanent Open Source )
-
+```
 Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kamu Pakai Sepuasnya & Selalu Update Berkala!
 
 ---
