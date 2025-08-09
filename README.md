@@ -64,12 +64,8 @@ Termux, Maupun Android Environments.
 ## HARGA 🎭
 
 ```
-Rp350.000 ( Permanent Open Source )
-Rp250.000 ( Permanent Encrypt )
+Rp100.000 ( Permanent Open Source )
 
-Max Dp Di Awal Untuk - Open Source : Rp250.000
-Max Dp Di Awal Untuk - Encrypt : Rp150.000
-```
 Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kamu Pakai Sepuasnya & Selalu Update Berkala!
 
 ---
